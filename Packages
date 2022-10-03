@@ -4,10 +4,10 @@ Architecture: all
 Maintainer: gx1
 Depends: nodejs, npm, curl, docker.io, docker-compose, build-essential
 Filename: ./dsp_3.8.0_amd64.deb
-Size: 4557180
-MD5sum: c28ff8e9b50b556bf19803ea17abe105
-SHA1: 98b1d6c82fc43d6236b627d8cc533c28099464f5
-SHA256: 2aa646d71d373e9207df16a509e8ac7e50a7349faa178d3e5d0d9a870a56a515
+Size: 4415432
+MD5sum: 9394bc04c193df53d9ffcca7bba16616
+SHA1: ff2986036e9cbded69d545266ca83317960471df
+SHA256: 122dfab18e523ee780167316fac7bb946605e3e5b33a428225eb15b554061653
 Description: Docker Security Playground package installer
 Build-Depends: debhelper (>= 9)
 
